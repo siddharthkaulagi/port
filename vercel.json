@@ -2,12 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/index",
-      "permanent": true
-    },
-    {
-      "source": "/index",
-      "destination": "/",
+      "destination": "/home",
       "permanent": true
     }
   ]
